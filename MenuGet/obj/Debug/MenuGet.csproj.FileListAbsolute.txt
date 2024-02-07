@@ -1,0 +1,5 @@
+H:\Admin\Просто Вышка\Лабы\Menu\MenuGet\bin\Debug\MenuGet.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuGet\bin\Debug\MenuGet.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuGet\obj\Debug\MenuGet.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\MenuGet\obj\Debug\MenuGet.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuGet\obj\Debug\MenuGet.pdb

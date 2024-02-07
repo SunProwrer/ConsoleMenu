@@ -1,0 +1,9 @@
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\bin\Debug\Settings.dll
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\bin\Debug\Settings.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\bin\Debug\MenuColors.dll
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\bin\Debug\MenuColors.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\obj\Debug\Settings.csproj.AssemblyReference.cache
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\obj\Debug\Settings.csproj.CopyComplete
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\obj\Debug\Settings.dll
+H:\Admin\Просто Вышка\Лабы\Menu\Settings\obj\Debug\Settings.pdb

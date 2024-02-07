@@ -1,0 +1,6 @@
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\bin\Debug\MenuApplication.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\bin\Debug\MenuApplication.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\obj\Debug\MenuApplication.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\obj\Debug\MenuApplication.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\obj\Debug\MenuApplication.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuApplication\obj\Debug\MenuApplication.csproj.AssemblyReference.cache

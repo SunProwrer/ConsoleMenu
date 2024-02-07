@@ -1,0 +1,6 @@
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\bin\Debug\MenuColors.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\bin\Debug\MenuColors.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\obj\Debug\MenuColors.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\obj\Debug\MenuColors.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\obj\Debug\MenuColors.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuColors\obj\Debug\MenuColors.csproj.AssemblyReference.cache

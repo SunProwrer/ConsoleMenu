@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Menu.MenuMas.Massive" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAAIBAIAAAgAAAAAAAAAAAAgAAgQAAAAAEKA=</HashCode>
+      <FileName>MenuMas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="asinastra" Size="9" />
+</ClassDiagram>

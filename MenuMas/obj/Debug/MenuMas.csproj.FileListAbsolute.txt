@@ -1,0 +1,11 @@
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuMas.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuMas.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\obj\Debug\MenuMas.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\obj\Debug\MenuMas.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\obj\Debug\MenuMas.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuColors.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuColors.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\obj\Debug\MenuMas.csproj.CopyComplete
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuGet.dll
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\bin\Debug\MenuGet.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\MenuMas\obj\Debug\MenuMas.csproj.AssemblyReference.cache

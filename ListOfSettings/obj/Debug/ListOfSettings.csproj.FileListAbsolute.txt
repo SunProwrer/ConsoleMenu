@@ -1,0 +1,13 @@
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\ListOfSettings.dll
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\ListOfSettings.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\obj\Debug\ListOfSettings.csproj.CoreCompileInputs.cache
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\obj\Debug\ListOfSettings.dll
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\obj\Debug\ListOfSettings.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuColors.dll
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuSettings.dll
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuApplication.dll
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuColors.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuSettings.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\bin\Debug\MenuApplication.pdb
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\obj\Debug\ListOfSettings.csproj.CopyComplete
+H:\Admin\Просто Вышка\Лабы\Menu\ListOfSettings\obj\Debug\ListOfSettings.csproj.AssemblyReference.cache
